@@ -41,6 +41,7 @@ static const Block blocks[] = {
 	{"", "dwm.getClock.sh", 1, 16},
 	{"", "dwm.wallpaper.sh", 1, 18},
 	{"", "dwm.setwallpaper.sh", 0, 19},
+	{"", "dwm.screen_extend.sh", 2, 20},
 	{"", "dwm.getPackages.sh", 0, 5},
 	{"", "dwm.power.sh", 0, 17},
 
